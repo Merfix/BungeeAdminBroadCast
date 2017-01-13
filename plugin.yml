@@ -1,0 +1,10 @@
+name: BungeeAdminBroadcast
+version: 0.1
+author: Merfix
+
+main: dedfais.merfix.bungeeabc.Main
+commands:
+    bcadmin:
+      aliases: [b]
+    bcmoder:
+      aliases: [b]
